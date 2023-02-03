@@ -167,7 +167,8 @@ textarea{
     width: 80%;
     border-radius: 2px;
     display: flex;
-    place-content: center;
+    justify-content: space-between;
+    font-weight: bolder;
 }
 
 /* .nav-container{
