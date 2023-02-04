@@ -4,8 +4,6 @@
    
   "version": "0.1.0",
    
-  "homepage": "https://gitIsaacKusi.github.io/react_blog",
-   
   "private": true,
    
   "dependencies": {
@@ -35,13 +33,7 @@
    
   "scripts": {
    
-     
-  "predeploy": "npm run build",
-   
-     
-  "deploy": "gh-pages -d build",
-   
-     
+ 
   "start": "react-scripts start",
    
      
